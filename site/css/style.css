@@ -26,6 +26,13 @@ h2 a {
   text-decoration: none;
 }
 
+h3 {
+  color: #ef662b;
+  font: 600 50px / 1.4 'Roboto Mono', monospace;
+  padding-top: 30px;
+  padding-left: 50px;
+}
+
 nav {
   background-color: #000;
   text-align: center;
