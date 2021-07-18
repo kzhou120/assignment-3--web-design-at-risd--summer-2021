@@ -42,3 +42,8 @@ nav a {
 p {
   font-family: Montserrat, sans-serif;
 }
+
+.underline {
+  text-decoration: underline;
+}
+
