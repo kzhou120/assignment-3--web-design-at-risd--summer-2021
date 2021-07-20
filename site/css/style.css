@@ -77,3 +77,8 @@ h3 {
 .first {
   padding-bottom: 24px;
 }
+
+.solid {
+  background-color: #fceedc;
+  padding-bottom: 24px;
+}
