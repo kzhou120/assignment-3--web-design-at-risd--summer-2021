@@ -63,3 +63,10 @@ nav a {
 .main-content {
   margin: 30px 86px;
 }
+
+.right {
+  margin-left: 480px;
+  padding-top: 20px;
+  padding-right: 110px;
+}
+
