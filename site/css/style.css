@@ -61,6 +61,10 @@ nav a {
 }
 
 .main-content {
+p {
+  margin: 30px 80px;
+}
+
   margin: 30px 86px;
 }
 
