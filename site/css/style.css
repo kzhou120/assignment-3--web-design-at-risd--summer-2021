@@ -4,8 +4,8 @@ main {
 
 h1 {
   background-color: #fceedc;
-  font: 600 50px / 1.4 'Roboto Mono', monospace;
   color: #222;
+  font: 600 60px / 1.4 'Roboto Mono', monospace;
   padding-top: 30px;
   text-align: center;
 }
