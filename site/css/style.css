@@ -108,4 +108,18 @@ p {
   border-radius: 10px;
 }
 
+#fifth {
+  padding-top: 30px;
+  padding-bottom: 110px;
+  background-image: url('https://live.staticflickr.com/6152/6167491525_182d7df121_k.jpg');
+  background-repeat: no-repeat;
+  background-position: right;
+}
+
+#fifth p {
+  background-color: rgba(252, 238, 220, .9);
+  padding: 20px 30px;
+  border-radius: 10px;
+}
+
 }
