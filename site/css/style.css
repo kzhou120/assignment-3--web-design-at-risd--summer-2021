@@ -64,7 +64,11 @@ h3 {
   margin: 30px 86px;
 }
 
+p {
+  font-size: 20px;
   color: #222;
+}
+
 .right {
   margin-left: 480px;
   padding-top: 20px;
