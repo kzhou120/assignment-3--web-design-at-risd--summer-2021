@@ -75,11 +75,11 @@ p {
   padding-right: 110px;
 }
 
-.first {
-  padding-bottom: 24px;
-}
-
 .solid {
   background-color: #fceedc;
-  padding-bottom: 24px;
+  padding-bottom: 110px;
+  margin-top: -50px;
+  padding-top: 20px;
+}
+
 }
