@@ -135,4 +135,17 @@ p {
   padding: 20px 30px;
   border-radius: 10px;
 }
+
+#nineth {
+  padding-top: 30px;
+  padding-bottom: 110px;
+  background-image: url('https://live.staticflickr.com/5111/7219495922_7bedb95c78_k.jpg');
+  background-repeat: no-repeat;
+  background-position: bottom;
+}
+
+#nineth p {
+  background-color: rgba(252, 238, 220, .9);
+  padding: 20px 30px;
+  border-radius: 10px;
 }
