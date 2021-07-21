@@ -122,4 +122,17 @@ p {
   border-radius: 10px;
 }
 
+#seventh {
+  padding-top: 30px;
+  padding-bottom: 110px;
+  background-image: url('https://live.staticflickr.com/5337/7219499794_3969326601_k.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+#seventh p {
+  background-color: rgba(252, 238, 220, .9);
+  padding: 20px 30px;
+  border-radius: 10px;
+}
 }
