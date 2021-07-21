@@ -82,4 +82,17 @@ p {
   padding-top: 20px;
 }
 
+#first {
+  padding-top: 30px;
+  padding-bottom: 110px;
+  background-image: url('https://live.staticflickr.com/6158/6168027972_bd2c3c2859_k.jpg');
+  background-repeat: no-repeat;
+}
+
+#first p {
+  background-color: rgba(252, 238, 220, .9);
+  padding: 20px 30px;
+  border-radius: 10px;
+}
+
 }
